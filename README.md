@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechnoMarketingMedia
+- 👋 Hi, I’m @MarketingMedia
 - 👀 I’m interested in Command-Line Development and Website Development
 - 🌱 I’m currently learning Computer Science 50 (CS50)
 - 💞️ I’m looking to collaborate on any projects
