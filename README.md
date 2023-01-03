@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarketingMedia
 - 👀 I’m interested in Command-Line Development and Website Development
-- 🌱 I’m currently learning Computer Science 50 (CS50)
+- 🌱 I’m currently learning Computer Science (CS50w) Web Programming with Pyhton and Javascript
 - 💞️ I’m looking to collaborate on any projects
 - 📫 You can reach me at matthewmanning432@gmail.com
 
